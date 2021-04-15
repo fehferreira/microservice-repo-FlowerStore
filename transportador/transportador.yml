@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: root
+    username: root
+    url: jdbc:mysql://localhost:3307/transportador
+      ddl-auto: update
